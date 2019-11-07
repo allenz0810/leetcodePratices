@@ -1,0 +1,11 @@
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/bin/Debug/netcoreapp3.0/LeetCodePratices
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/bin/Debug/netcoreapp3.0/LeetCodePratices.deps.json
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/bin/Debug/netcoreapp3.0/LeetCodePratices.runtimeconfig.json
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/bin/Debug/netcoreapp3.0/LeetCodePratices.runtimeconfig.dev.json
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/bin/Debug/netcoreapp3.0/LeetCodePratices.dll
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/bin/Debug/netcoreapp3.0/LeetCodePratices.pdb
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/obj/Debug/netcoreapp3.0/LeetCodePratices.csprojAssemblyReference.cache
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/obj/Debug/netcoreapp3.0/LeetCodePratices.AssemblyInfoInputs.cache
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/obj/Debug/netcoreapp3.0/LeetCodePratices.AssemblyInfo.cs
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/obj/Debug/netcoreapp3.0/LeetCodePratices.dll
+/Users/other/github/leetcode/LeetCodePratices/LeetCodePratices/obj/Debug/netcoreapp3.0/LeetCodePratices.pdb
