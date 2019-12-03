@@ -1,25 +1,23 @@
 ﻿<Properties StartupConfiguration="{03ABCF49-145D-4809-8E8C-1F8211081067}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCodePratices/question2/question2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCodePratices/question3/question3.cs">
     <Files>
       <File FileName="LeetCodePratices/Program.cs" Line="1" Column="1" />
       <File FileName="LeetCodePratices/question1/question1.cs" />
-      <File FileName="LeetCodePratices/question2/question2.cs" Line="33" Column="10" />
+      <File FileName="LeetCodePratices/question2/question2.cs" />
+      <File FileName="LeetCodePratices/question3/question3.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LeetCodePratices" expanded="True">
             <Node name="LeetCodePratices" expanded="True">
-              <Node name="question1" expanded="True" />
-              <Node name="question2" expanded="True">
-                <Node name="question2.cs" selected="True" />
+              <Node name="question2" expanded="True" />
+              <Node name="question3" expanded="True">
+                <Node name="question3.cs" selected="True" />
               </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

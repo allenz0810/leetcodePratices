@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LeetCodePratices.question1
+namespace LeetCodePratices
 {
     /*
      * Two Sum

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace LeetCodePratices.question2
+namespace LeetCodePratices
 {
 
     public class ListNode
