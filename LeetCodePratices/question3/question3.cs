@@ -32,7 +32,7 @@ namespace LeetCodePratices
 
         public question3()
         {
-            LengthOfLongestSubstring("abcabcbhuklopmn");
+            LengthOfLongestSubstring("abcabcbb");
         }
 
         public int LengthOfLongestSubstring(string s)
